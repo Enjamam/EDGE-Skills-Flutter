@@ -1,6 +1,6 @@
-# mvvm_app
+# GetX & MVVM Architecture
 
-A new Flutter project.
+Recoded the code in the attached document using GetX & MVVM architecture.
 
 ## Getting Started
 
